@@ -67,8 +67,11 @@ php artisan key:generate
 php artisan serve
 ```
 
-## **📌4️⃣ Test credentials**
+## **📌4️⃣ Test credentials & documentation**
 ```
 user@test.com
 123456
+
+https://documenter.getpostman.com/view/6590743/2sAYdmmTUE
 ```
+
