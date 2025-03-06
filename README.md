@@ -67,3 +67,8 @@ php artisan key:generate
 php artisan serve
 ```
 
+## **📌4️⃣ Test credentials**
+```
+user@test.com
+123456
+```
